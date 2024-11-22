@@ -1,9 +1,9 @@
 # paulettemaldonado.github.io
 
-#Paulette Maldonado
 ##¡Bienvenido a mi repositorio GitHub!
 ¡Hola! Soy Paulette Maldonado estudiante de Computación en la ESPOL, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesa especialmente el desarrollo web y móvil, así como la exploración de herramientas y lenguajes como Python, JavaScript y Java, con los que estoy construyendo una base sólida de habilidades técnicas.
 Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente robustas, sino que también tengan un impacto significativo en la vida de las personas. Soy una persona comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorar tanto en lo profesional como en lo personal. Estoy en búsqueda constante de nuevos retos y oportunidades para seguir avanzando. :sparkles:
+
 ![FondoBonito](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtN3k0b29vY3RlcGh2MWFzMWtsc2M3Y2dpazltNnQ3NTE2am01ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp)
 
 # Tabla de Contenido  
