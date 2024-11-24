@@ -73,7 +73,7 @@ Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas 
 
 ---
 
-## 🎨 Intereses {#intereses}
+## 🤖 Intereses {#intereses}
 - IoT
 - Programación
 - Inteligencia artificial
