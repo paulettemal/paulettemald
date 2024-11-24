@@ -1,4 +1,4 @@
-# ¡Bienvenido a mi repositorio GitHub! :wave:
+# ¡Bienvenido a mi repositorio! :wave:
 
 ¡Hola! Soy **Paulette Maldonado**, estudiante de Computación en la **ESPOL**, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo web y móvil, así como la exploración de herramientas y lenguajes como **Python**, **JavaScript** y **Java**, con los que estoy construyendo una base sólida de habilidades técnicas.
 
@@ -11,11 +11,10 @@ Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente
 ---
 
 ## Tabla de Contenidos  
-1. [Habilidades Técnicas](#habilidades-técnicas)  
-2. [Experiencia](#experiencia)  
-3. [Proyectos Destacados](#proyectos-destacados)  
-4. [Intereses Personales](#intereses-personales)  
-5. [Contacto](#contacto)  
+1. [Habilidades Técnicas](#habilidades-técnicas)
+2. [Proyectos Destacados](#proyectos-destacados)  
+3. [Intereses Personales](#intereses-personales)  
+4. [Contacto](#contacto)  
 
 ---
 
@@ -34,49 +33,42 @@ Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente
 
 ---
 
-## Experiencia 
-
-### Ayudante de Gestión
-- **Período**: 2024 - a la fecha
-- **Lugar**: Facultad de Ingeniería en Electricidad y Computación, ESPOL  
-- **Descripción**: Soporte técnico y gestión de recursos, incluyendo el mantenimiento de equipos y la preparación de aulas.
-
-### Desarrollador Freelancer
-- **Período**: 2022 - 2024  
-- **Lugar**: Proyectos de materia, ESPOL  
-- **Descripción**: Creación de soluciones personalizadas para proyectos académicos, desde la implementación de algoritmos hasta la optimización de diseños.
-
----
 
 ## Proyectos Destacados
 
 ### Proyecto 1: Registro de Almacenamiento
-- **Descripción**: Gestión de inventario eficiente para controlar y organizar el almacenamiento.
+- **Descripción**: Gestión de inventario eficiente para controlar y organizar almacenamiento.
 - **Enlace al Proyecto**: [GitHub - Registro de Almacenamiento](https://github.com/ArielV17/Proyecto)
+- **Lenguage utilizado**: Java.
+- **Herramientas y plataformas**: Git, Visual Studio Code
 
 ### Proyecto 2: Programa Contador de Palabras
 - **Descripción**: Programa para analizar textos y contar la frecuencia de palabras.
 - **Enlace al Proyecto**: [GitHub - Contador de Palabras](https://github.com/progsis-espol/programa-frecuencia-palabras-paulettemal)
+- **Lenguage utilizado**: C.
+- **Herramientas y plataformas**: Makefile, Git
 
 ### Proyecto 3: Tres en Raya
 - **Descripción**: Desarrollo de un juego interactivo de tres en raya.
 - **Enlace al Proyecto**: [GitHub - Tres en Raya](https://github.com/Darloscode/Tres-en-Raya)
+- **Lenguage utilizado**: Java.
+- **Herramientas y plataformas**: Git, Visual Studio Code
 
 ---
 
 ## Intereses Personales 
 
 Cuando no estoy trabajando en proyectos tecnológicos, me gusta explorar nuevas actividades y disfrutar de tiempo de calidad con amigos y familia. También soy aficionada a la lectura y al aprendizaje de habilidades creativas.
-
+- **Aprendiendo**: React, Kotlin
 ---
 
 ## Contacto 
 
 Si deseas ponerte en contacto conmigo, ¡aquí tienes mis redes sociales y correo electrónico!  
-- **Facebook**: [Paulette Maldonado](https://www.facebook.com/paulete.maldonado.3)  
-- **GitHub**: [PauletteMal](https://github.com/paulettemal)  
-- **LinkedIn**: [Paulette Maldonado Jaramillo](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/)  
-
+- **📘 Facebook**: [🔵](https://www.facebook.com/paulete.maldonado.3)  
+- **🐱 GitHub**: [🐱](https://github.com/paulettemal)  
+- **💼 LinkedIn**: [💼](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/) 
+- **Curriculum**: [Curriculum]([https://paulettemal.github.io/curriculumPaulette/]) 
 ---
 
 ¡Gracias por visitar mi perfil! 😄
