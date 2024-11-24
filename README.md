@@ -1,8 +1,8 @@
-# ¡Bienvenido a mi repositorio! :wave:
+# ¡Bienvenido a mi repositorio! 👋
 
-¡Hola! Soy **Paulette Maldonado**, estudiante de Computación en la **ESPOL**, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo web y móvil, así como la exploración de herramientas y lenguajes como **Python**, **JavaScript** y **Java**, con los que estoy construyendo una base sólida de habilidades técnicas.
+Hola, soy **Paulette Maldonado**, estudiante de Computación en la **ESPOL**, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo **web y móvil**, y disfruto explorando herramientas y lenguajes como **Python**, **JavaScript** y **Java**, con los que estoy construyendo una base sólida de habilidades técnicas.
 
-Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente robustas, sino que también tengan un impacto significativo en la vida de las personas. Soy una persona comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorar tanto en lo profesional como en lo personal. Estoy en búsqueda constante de nuevos retos y oportunidades para seguir avanzando. ✨
+Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robustas y que generen un impacto significativo en la vida de las personas. Estoy comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorando tanto en lo profesional como en lo personal. Estoy constantemente en búsqueda de nuevos retos y oportunidades para seguir avanzando. ✨
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtN3k0b29vY3RlcGh2MWFzMWtsc2M3Y2dpazltNnQ3NTE2am01ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp" alt="Fondo Bonito">
@@ -10,17 +10,18 @@ Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente
 
 ---
 
-## Tabla de Contenidos  
+## 📑 Tabla de Contenidos  
 1. [Habilidades Técnicas](#habilidades-técnicas)
-2. [Proyectos Destacados](#proyectos-destacados)  
-3. [Intereses Personales](#intereses-personales)  
-4. [Contacto](#contacto)  
+2. [Tecnologías](#tecnologías)
+3. [Proyectos Destacados](#proyectos-destacados)  
+4. [Intereses Personales](#intereses-personales)  
+5. [Contacto](#contacto)  
 
 ---
 
-## Habilidades Técnicas 
+## 🛠️ Habilidades Técnicas 
 
-### Lenguajes de Programación 
+### Lenguajes y herramientas
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" alt="Python" width="50" height="50">
@@ -33,42 +34,61 @@ Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente
 
 ---
 
+## 💻 Tecnologías
 
-## Proyectos Destacados
+Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 
-### Proyecto 1: Registro de Almacenamiento
+- **JavaScript (JS)**: Para lógica de negocio y manipulación del DOM.
+- **TypeScript**: Código estructurado y con tipado estático.
+- **React**: Creación de interfaces de usuario con componentes reutilizables.
+- **CSS**: Diseño visual, layouts flexibles y responsive design.
+- **HTML**: Estructuración semántica y accesible de aplicaciones.
+- **JSON**: Intercambio eficiente de datos con APIs y bases de datos.
+- **Firebase**: Autenticación, bases de datos en tiempo real y hosting en la nube.
+
+Estas tecnologías se integraron en proyectos prácticos, construyendo aplicaciones modernas, escalables y centradas en el usuario.
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 📋 Proyecto 1: Registro de Almacenamiento
 - **Descripción**: Gestión de inventario eficiente para controlar y organizar almacenamiento.
 - **Enlace al Proyecto**: [GitHub - Registro de Almacenamiento](https://github.com/ArielV17/Proyecto)
-- **Lenguage utilizado**: Java.
-- **Herramientas y plataformas**: Git, Visual Studio Code
+- **Lenguaje utilizado**: Java
+- **Herramientas y plataformas**: Git, Visual Studio Code.
 
-### Proyecto 2: Programa Contador de Palabras
+### 📊 Proyecto 2: Programa Contador de Palabras
 - **Descripción**: Programa para analizar textos y contar la frecuencia de palabras.
 - **Enlace al Proyecto**: [GitHub - Contador de Palabras](https://github.com/progsis-espol/programa-frecuencia-palabras-paulettemal)
-- **Lenguage utilizado**: C.
-- **Herramientas y plataformas**: Makefile, Git
+- **Lenguaje utilizado**: C
+- **Herramientas y plataformas**: Makefile, Git.
 
-### Proyecto 3: Tres en Raya
+### 🎮 Proyecto 3: Tres en Raya
 - **Descripción**: Desarrollo de un juego interactivo de tres en raya.
 - **Enlace al Proyecto**: [GitHub - Tres en Raya](https://github.com/Darloscode/Tres-en-Raya)
-- **Lenguage utilizado**: Java.
-- **Herramientas y plataformas**: Git, Visual Studio Code
+- **Lenguaje utilizado**: Java
+- **Herramientas y plataformas**: Git, Visual Studio Code.
 
 ---
 
-## Intereses Personales 
+## 🎨 Intereses Personales 
 
 Cuando no estoy trabajando en proyectos tecnológicos, me gusta explorar nuevas actividades y disfrutar de tiempo de calidad con amigos y familia. También soy aficionada a la lectura y al aprendizaje de habilidades creativas.
-- **Aprendiendo**: React, Kotlin
+
+- **Actualmente aprendiendo**: React, Kotlin.
+
 ---
 
-## Contacto 
+## 📬 Contacto 
 
-Si deseas ponerte en contacto conmigo, ¡aquí tienes mis redes sociales y correo electrónico!  
+¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!  
+
 - **📘 Facebook**: [🔵](https://www.facebook.com/paulete.maldonado.3)  
 - **🐱 GitHub**: [🐱](https://github.com/paulettemal)  
-- **💼 LinkedIn**: [💼](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/) 
-- **Curriculum**: [Curriculum]([https://paulettemal.github.io/curriculumPaulette/]) 
+- **💼 LinkedIn**: [💼](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/)  
+- **📄 Curriculum**: [Curriculum](https://paulettemal.github.io/curriculumPaulette/)  
+
 ---
 
 ¡Gracias por visitar mi perfil! 😄
