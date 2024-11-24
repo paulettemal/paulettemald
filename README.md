@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi repositorio! 👋
 
-Hola, soy **Paulette Maldonado**, estudiante de Computación en la **ESPOL**, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo **web y móvil**, y disfruto explorando herramientas y lenguajes como **Python**, **JavaScript** y **Java**, con los que estoy construyendo una base sólida de habilidades técnicas.
+Hola, soy **Paulette Maldonado**, estudiante de Computación en la ESPOL, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo **web y móvil**, y disfruto explorando herramientas y lenguajes con los que estoy construyendo una base sólida de habilidades técnicas.
 
 Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robustas y que generen un impacto significativo en la vida de las personas. Estoy comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorando tanto en lo profesional como en lo personal. Estoy constantemente en búsqueda de nuevos retos y oportunidades para seguir avanzando.
 
@@ -42,7 +42,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
 - **CSS**: Diseño visual, layouts flexibles y responsive design.
-- **JavaScript (JS)**: Para lógica de negocio y manipulación del DOM.
+- **JavaScript (JS)**: Para lógica y manipulación del DOM.
 - **TypeScript**: Código estructurado y con tipado estático.
 - **React**: Creación de interfaces de usuario con componentes reutilizables.
 - **JSON**: Intercambio eficiente de datos con APIs y bases de datos.
