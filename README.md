@@ -15,11 +15,11 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 2. [Tecnologías](#tecnologías)
 3. [Proyectos Destacados](#proyectos-destacados)  
 4. [Intereses](#intereses)  
-5. [Contacto](#contacto)
+5. [Contactos](#contactos)
    
 ---
 
-## 🛠️ Habilidades Técnicas 
+## 🛠️ Habilidades Técnicas {#habilidades-tecnicas}
 
 ### Lenguajes y herramientas
 
@@ -37,7 +37,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 
 ---
 
-## 💻 Tecnologías
+## 💻 Tecnologías {#tecnologias}
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
@@ -51,7 +51,7 @@ Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas 
 ---
 
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyectos Destacados {#proyectos-destacados}
 
 ### 📋 Proyecto 1: Registro de Almacenamiento
 - **Descripción**: Gestión de inventario eficiente para controlar y organizar almacenamiento.
@@ -73,7 +73,7 @@ Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas 
 
 ---
 
-## 🎨 Intereses 
+## 🎨 Intereses {#intereses}
 - IoT
 - Programación
 - Inteligencia artificial
@@ -82,7 +82,7 @@ Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas 
 
 ---
 
-## 📬 Contacto 
+## 📬 Contactos {#contactos}
 
 ¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
 - **🐱**: [GitHub](https://github.com/paulettemal)
