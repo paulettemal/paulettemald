@@ -11,8 +11,8 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 ---
 
 ## 📑 Tabla de Contenidos  
-1. [Habilidades Técnicas](#habilidades-técnicas)
-2. [Tecnologías](#tecnologías)
+1. [Habilidades Técnicas](#habilidades-tecnicas)
+2. [Tecnologías](#tecnologias)
 3. [Proyectos Destacados](#proyectos-destacados)  
 4. [Intereses](#intereses)  
 5. [Contactos](#contactos)
