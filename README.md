@@ -2,7 +2,7 @@
 
 Hola, soy **Paulette Maldonado**, estudiante de Computación en la **ESPOL**, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo **web y móvil**, y disfruto explorando herramientas y lenguajes como **Python**, **JavaScript** y **Java**, con los que estoy construyendo una base sólida de habilidades técnicas.
 
-Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robustas y que generen un impacto significativo en la vida de las personas. Estoy comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorando tanto en lo profesional como en lo personal. Estoy constantemente en búsqueda de nuevos retos y oportunidades para seguir avanzando. ✨
+Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robustas y que generen un impacto significativo en la vida de las personas. Estoy comprometida con el aprendizaje continuo, buscando siempre estar al día con las tendencias tecnológicas y mejorando tanto en lo profesional como en lo personal. Estoy constantemente en búsqueda de nuevos retos y oportunidades para seguir avanzando.
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtN3k0b29vY3RlcGh2MWFzMWtsc2M3Y2dpazltNnQ3NTE2am01ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp" alt="Fondo Bonito">
@@ -14,7 +14,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 1. [Habilidades Técnicas](#habilidades-técnicas)
 2. [Tecnologías](#tecnologías)
 3. [Proyectos Destacados](#proyectos-destacados)  
-4. [Intereses Personales](#intereses-personales)  
+4. [Intereses](#intereses)  
 5. [Contacto](#contacto)  
 
 ---
@@ -41,18 +41,16 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 ## 💻 Tecnologías
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
-
+- **HTML**: Estructuración semántica y accesible de aplicaciones.
+- **CSS**: Diseño visual, layouts flexibles y responsive design.
 - **JavaScript (JS)**: Para lógica de negocio y manipulación del DOM.
 - **TypeScript**: Código estructurado y con tipado estático.
 - **React**: Creación de interfaces de usuario con componentes reutilizables.
-- **CSS**: Diseño visual, layouts flexibles y responsive design.
-- **HTML**: Estructuración semántica y accesible de aplicaciones.
 - **JSON**: Intercambio eficiente de datos con APIs y bases de datos.
 - **Firebase**: Autenticación, bases de datos en tiempo real y hosting en la nube.
 
-Estas tecnologías se integraron en proyectos prácticos, construyendo aplicaciones modernas, escalables y centradas en el usuario.
-
 ---
+
 
 ## 🌟 Proyectos Destacados
 
@@ -76,23 +74,23 @@ Estas tecnologías se integraron en proyectos prácticos, construyendo aplicacio
 
 ---
 
-## 🎨 Intereses Personales 
-
-Cuando no estoy trabajando en proyectos tecnológicos, me gusta explorar nuevas actividades y disfrutar de tiempo de calidad con amigos y familia. También soy aficionada a la lectura y al aprendizaje de habilidades creativas.
-
-- **Actualmente aprendiendo**: React, Kotlin.
+## 🎨 Intereses 
+- IoT
+- Programación
+- Inteligencia artificial
+- Blockchain
+- Ciberseguridad
 
 ---
 
 ## 📬 Contacto 
 
-¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!  
-
-- **📘 Facebook**: [🔵](https://www.facebook.com/paulete.maldonado.3)  
-- **🐱 GitHub**: [🐱](https://github.com/paulettemal)  
-- **💼 LinkedIn**: [💼](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/)  
-- **📄 Curriculum**: [Curriculum](https://paulettemal.github.io/curriculumPaulette/)  
+¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
+- **🐱**: [GitHub](https://github.com/paulettemal)
+- **💼**: [LinkedIn](https://www.linkedin.com/in/paulette-maldonado-jaramillo-868a8820a/)
+- **📘**: [Facebook](https://www.facebook.com/paulete.maldonado.3)
+- **📄 Curriculum**: [Curriculum](https://paulettemal.github.io/curriculumPaulette/)
 
 ---
 
-¡Gracias por visitar mi perfil! 😄
+¡Gracias por visitarme!
