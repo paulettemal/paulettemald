@@ -15,8 +15,8 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 2. [Tecnologías](#tecnologías)
 3. [Proyectos Destacados](#proyectos-destacados)  
 4. [Intereses](#intereses)  
-5. [Contacto](#contacto)  
-
+5. [Contacto](#contacto)
+   
 ---
 
 ## 🛠️ Habilidades Técnicas 
@@ -31,7 +31,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
   <img src="https://i.pinimg.com/736x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg" alt="Java" width="50" height="50">
   <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="C" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png" alt="Figma" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="Figma" width="50" height="50">
   <img src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" alt="MySQL" width="50" height="50">
 </p>
 
