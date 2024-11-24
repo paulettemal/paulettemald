@@ -20,12 +20,26 @@ Mi objetivo es contribuir a soluciones prácticas que no solo sean técnicamente
 ## Habilidades Técnicas 
 
 ### Lenguajes de Programación 
-- ![Python](https://i.pinimg.com/736x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg) **Python**  
-- ![JavaScript](https://i.pinimg.com/736x/0e/4f/dc/0e4fdce8ac22e09688c580e5bc4dcd7d.jpg) **JavaScript**  
-- ![Java](https://i.pinimg.com/736x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg) **Java**  
-- ![C](https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg) **C**  
-- ![HTML](https://i.pinimg.com/736x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg) **HTML**  
-- ![CSS](https://i.pinimg.com/736x/62/1f/21/621f21fa891b48023ff7c4dff12c7aa0.jpg) **CSS**  
+### Lenguajes de Programación 
+<div align="center">
+  <img src="https://i.pinimg.com/736x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" alt="Python" width="100" height="100"/>  
+  <p>**Python**</p>
+
+  <img src="https://i.pinimg.com/736x/0e/4f/dc/0e4fdce8ac22e09688c580e5bc4dcd7d.jpg" alt="JavaScript" width="100" height="100"/>  
+  <p>**JavaScript**</p>
+
+  <img src="https://i.pinimg.com/736x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg" alt="Java" width="100" height="100"/>  
+  <p>**Java**</p>
+
+  <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="C" width="100" height="100"/>  
+  <p>**C**</p>
+
+  <img src="https://i.pinimg.com/736x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" alt="HTML" width="100" height="100"/>  
+  <p>**HTML**</p>
+
+  <img src="https://i.pinimg.com/736x/62/1f/21/621f21fa891b48023ff7c4dff12c7aa0.jpg" alt="CSS" width="100" height="100"/>  
+  <p>**CSS**</p>
+</div>
 
 ---
 
