@@ -30,6 +30,10 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
   <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="C" width="50" height="50">
   <img src="https://i.pinimg.com/736x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" alt="HTML" width="50" height="50">
   <img src="https://i.pinimg.com/736x/62/1f/21/621f21fa891b48023ff7c4dff12c7aa0.jpg" alt="CSS" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="GitHub" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494749.png" alt="Git" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png" alt="Figma" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="50" height="50">
 </p>
 
 ---
