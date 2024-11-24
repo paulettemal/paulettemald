@@ -19,7 +19,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
    
 ---
 
-## 🛠️ Habilidades Técnicas {#habilidades-tecnicas}
+## 🛠️ Habilidades Técnicas
 
 ### Lenguajes y herramientas
 
@@ -37,7 +37,7 @@ Mi objetivo es contribuir a soluciones prácticas que sean técnicamente robusta
 
 ---
 
-## 💻 Tecnologías {#tecnologias}
+## 💻 Tecnologías
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
